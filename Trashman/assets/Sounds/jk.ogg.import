@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/jk.ogg-123debf5d4e0f2caf5b00ccc46676230.oggstr"
+
+[deps]
+
+source_file="res://assets/Sounds/jk.ogg"
+dest_files=[ "res://.import/jk.ogg-123debf5d4e0f2caf5b00ccc46676230.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
